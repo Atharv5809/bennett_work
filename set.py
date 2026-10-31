@@ -2,8 +2,7 @@ s=set()
 terms= int (input("Enter the number of inputs: "))
 
 for i in range(1,terms+1,1):
-    n=input(f"Enter the {i} number: ")
-    s.add(int (n))
+    s.add(int (input(f"Enter the {i} number: ")))
 
 print("Set with original values: ",s)
 

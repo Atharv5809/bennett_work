@@ -9,4 +9,4 @@ for i in range(1,rows+1,1):
          print(" ",end=" ")
 
     count+=1
-    print("\n")     
+    print("\n")
