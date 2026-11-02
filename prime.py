@@ -24,5 +24,5 @@ while(True):
             if (n%i==0):
                print("The given number is not a prime number\n")
                break
-            else:
-               print("The given number is a prime number\n")
+         else:
+            print("The given number is a prime number\n")
